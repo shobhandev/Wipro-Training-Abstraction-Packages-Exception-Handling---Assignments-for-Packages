@@ -5,7 +5,7 @@
  * To avoid conflict create this class in a new package called com.wipro.automobile.ship 
  * */
 
-package com.w3epic.wiprotraining.assignment2;
+package com.automobile;
 
 public class Assignment2 {
 
